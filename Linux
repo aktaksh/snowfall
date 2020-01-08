@@ -1,0 +1,2 @@
+Scan for the max supported RAM in linux 
+dmidecode -t 16
